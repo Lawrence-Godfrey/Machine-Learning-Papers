@@ -15,7 +15,7 @@
          
  * maximizes the multinomial logistic regression objective
 
-[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
+#### [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
  * Introduces VGG16 and VGG19
  * Does not use Local Response Normalisation (LRN) normalisation
      * They found that it doesn’t increase performance, but uses more memory
