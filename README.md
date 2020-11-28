@@ -125,3 +125,6 @@ By Taesung Park, Ming-Yu Liu, Ting-Chun Wang and Jun-Yan Zhu
 
 #### [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/pdf/1905.08233.pdf)
 By Egor Zakharov, Aliaksandra Shysheya, Egor Burkova and Victor Lempitsky
+
+## GPU Acceleration 
+#### [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759.pdf)
