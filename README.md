@@ -44,7 +44,12 @@ By Szegedy et al.
  * InceptionNet Architecture, which uses Inception modules. 
  * Similar to NIN, Inception modules use a number of kernels with different kernel sizes inbetween layers, adding their outputs together at the end. 
  * This allows for multiple receptive field sizes, which can increase accuracy since the important objects in an image might differ from image to image. 
- 
+
+#### [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946.pdf)
+By Mingxing Tan and Quoc V. Le
+ * Efficient scaling of width, depth and resolution to maximize performance. 
+ * Intuitively, only scaling one of these dimensions doesn't work: Increasing depth increases the receptive field, which requires a higher resolution input, which requires more parameters. 
+
 #### [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/pdf/1312.6229.pdf)
 By Sermanet et al.
 
@@ -75,6 +80,48 @@ By Leon A. Gatys, Alexander S. Ecker and Matthias Bethge
 By Paul Viola and Michael Jones
 
 
+
+
+
 ## Fully Convolutional Networks 
+
+#### [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1411.4038.pdf)
+By Jonathan Long, Evan Shelhamer and Trevor Darrell
+
+#### [Review and Evaluation of Deep Learning Architectures for Efficient Land Cover Mapping with UAS Hyper-Spatial Imagery: A Case Study Over a Wetland](https://www.mdpi.com/2072-4292/12/6/959/pdf)
+By Mohammad Pashaei, Hamid Kamangir, Michael J. Starek and Philippe Tissot
+* Review of Encoder-Decoder Semantic Segmentation Models
+
 ## 3D Convolutions 
+#### [An Efficient 3D CNN for Action/Object Segmentation in Video](https://arxiv.org/pdf/1907.08895.pdf)
+By Rui Hou, Chen Chen, Rahul Sukthankar and Mubarak Shah
+
+#### [An End-to-end 3D Convolutional Neural Network for Action Detection and Segmentation in Videos](https://arxiv.org/pdf/1712.01111.pdf)
+By Rui Hou, Rui Hou and Mubarak Shah
+
+#### [Semantic Video Segmentation: A Review on Recent Approaches](https://arxiv.org/ftp/arxiv/papers/1806/1806.06172.pdf)
+By Mohammad Hajizadeh Saffar, Mohsen Fayyaz, Mohammad Sabokrou and Mahmood Fathy
+
+#### [STD2P: RGBD Semantic Segmentation using Spatio-Temporal Data-Driven Pooling](https://scalable.mpi-inf.mpg.de/files/2017/04/cvpr2017.pdf)
+By Yang He, Wei-Chen Chiu, Margret Keuper and Mario Fritz
+
+#### [Semi-CNN Architecture for Effective Spatio-Temporal Learning in Action Recognition](https://www.researchgate.net/publication/338552250_Semi-CNN_Architecture_for_Effective_Spatio-Temporal_Learning_in_Action_Recognition)
+By Mei Chee Leong, Dilip K. Prasad, Dilip K. Prasad, Yong Tsui Lee, Yong Tsui Lee and Feng Lin
+
+#### [Learning Spatiotemporal Features with 3D Convolutional Networks](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)
+By Du Tran, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani and Manohar Paluri
+ * C3D Architecture 
+ * https://github.com/facebookarchive/C3D
+
+#### [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://arxiv.org/pdf/1606.06650.pdf)
+By Ozgun Cicek, Ahmed Abdulkadir, Soeren S. Lienkamp, Thomas Brox, and Olaf Ronneberger
+
 ## Generative Adveserial Networks 
+#### [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/pdf/1912.04958.pdf)
+By Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen and Timo Aila
+
+#### [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/pdf/1903.07291.pdf)
+By Taesung Park, Ming-Yu Liu, Ting-Chun Wang and Jun-Yan Zhu
+
+#### [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/pdf/1905.08233.pdf)
+By Egor Zakharov, Aliaksandra Shysheya, Egor Burkova and Victor Lempitsky
