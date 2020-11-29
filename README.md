@@ -92,6 +92,10 @@ By Jonathan Long, Evan Shelhamer and Trevor Darrell
 By Mohammad Pashaei, Hamid Kamangir, Michael J. Starek and Philippe Tissot
 * Review of Encoder-Decoder Semantic Segmentation Models
 
+#### [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
+By Augustus Odena, Vincent Dumoulin, Chris Olah
+
+
 ## 3D Convolutions 
 #### [An Efficient 3D CNN for Action/Object Segmentation in Video](https://arxiv.org/pdf/1907.08895.pdf)
 By Rui Hou, Chen Chen, Rahul Sukthankar and Mubarak Shah
@@ -117,6 +121,10 @@ By Du Tran, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani and Manohar Paluri
 By Ozgun Cicek, Ahmed Abdulkadir, Soeren S. Lienkamp, Thomas Brox, and Olaf Ronneberger
 
 ## Generative Adveserial Networks 
+#### [Hyperspherical Variational Auto-Encoders](https://www.researchgate.net/publication/324182043_Hyperspherical_Variational_Auto-Encoders)
+By Tim R. Davidson, Luca Falorsi, Nicola De Cao
+ * VAE, not GAN, but also for generating data
+
 #### [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/pdf/1912.04958.pdf)
 By Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen and Timo Aila
 
@@ -125,6 +133,16 @@ By Taesung Park, Ming-Yu Liu, Ting-Chun Wang and Jun-Yan Zhu
 
 #### [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/pdf/1905.08233.pdf)
 By Egor Zakharov, Aliaksandra Shysheya, Egor Burkova and Victor Lempitsky
+
+#### [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/abs/1610.07584)
+By Wu, Zhang, Xue, Freeman, and Tenenbaum
+
+#### [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)
+By Brock, Donahue, and Simonyan
+
+#### [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
+By Alec Radford, Luke Metz and Soumith Chintala
+
 
 ## GPU Acceleration 
 #### [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759.pdf)
