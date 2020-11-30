@@ -143,6 +143,13 @@ By Brock, Donahue, and Simonyan
 #### [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
 By Alec Radford, Luke Metz and Soumith Chintala
 
+#### [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
+By Martin Arjovsky, Soumith Chintala, Léon Bottou
+
+#### [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf)
+By Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville
+
+
 
 ## GPU Acceleration 
 #### [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759.pdf)
