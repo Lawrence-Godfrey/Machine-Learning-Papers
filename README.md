@@ -149,7 +149,8 @@ By Martin Arjovsky, Soumith Chintala, Léon Bottou
 #### [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf)
 By Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville
 
-
+#### [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)
+By Mehdi Mirza, Simon Osindero
 
 ## GPU Acceleration 
 #### [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759.pdf)
