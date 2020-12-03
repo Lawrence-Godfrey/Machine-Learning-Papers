@@ -152,5 +152,9 @@ By Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courv
 #### [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)
 By Mehdi Mirza, Simon Osindero
 
+#### [Interpreting the Latent Space of GANs for Semantic Face Editing](https://arxiv.org/pdf/1907.10786.pdf)
+By Yujun Shen, Jinjin Gu, Xiaoou Tang, Bolei Zhou
+
+
 ## GPU Acceleration 
 #### [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759.pdf)
